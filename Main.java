@@ -1,5 +1,4 @@
-// Works Cited
-// originally from https://codeboard.io/projects/77478
+// Mr Minich
 
 public class PiDayJavaMain
 {
